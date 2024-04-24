@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sichot:/</h1>
+<h1 align="center">Hi 👋, I'm Sirichot:/</h1>
 <h3 align="center">learning to be a fullstack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGGsub20uNG2iETOJ8QnB72SoIqX3iTj-5o6J_IdKUQ&s">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd06jVJKHC8EmJ8bz2V13_oAkjML-8oCnmmaiv6uDdQ&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilbeenx&label=Profile%20views&color=0e75b6&style=flat" alt="lilbeenx" /> </p>
 
 - 📫 contact insta **@beenxd**
